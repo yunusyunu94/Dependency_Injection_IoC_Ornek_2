@@ -1,0 +1,6 @@
+@Dependency_Injection_IoC_Ornek_2_HostAddress = http://localhost:5117
+
+GET {{Dependency_Injection_IoC_Ornek_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
